@@ -14,7 +14,7 @@ apply plugin: 'java'
 apply plugin: 'spring-boot'
 
 jar {
-    baseName = 'SpringBootAutowiredTest'
+    baseName = 'SpringBootTest'
     version = '1.0.0'
 }
 
